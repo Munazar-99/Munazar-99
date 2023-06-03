@@ -1,7 +1,8 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height:"200"/>
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="500" height:"200"/>
 </div>
+</br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/munazar-abdulle-9140b9259">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
