@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="00" height:"250"/>
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="600" height:"250"/>
 </div>
 </br>
 <div id="badges" align="center">
