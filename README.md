@@ -23,7 +23,6 @@
 
 - 📄 Know about my experiences [https://www.munazar-ali.dev/MunazarAli_FullStackDeveloper.pdf](https://www.munazar-ali.dev/MunazarAli_FullStackDeveloper.pdf)
 
-- ⚡ Fun fact **In my spare time, you might catch me attempting to build a mini-rocket out of spare code snippets – after all, a bit of aeronautical flair never hurt my coding altitude!**
 
 
 
