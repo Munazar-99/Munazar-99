@@ -12,7 +12,7 @@
 ---
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-  #### <h1 align="center">Hi 👋, I'm Munazar</h1>
+  #### <h1 align="center">Hi 👋, I'm Munazar </h1>
 ### :man_technologist: About Me :
 
 - 👨‍💻 All of my projects are available at [https://www.munazar-ali.dev/](https://www.munazar-ali.dev/)
